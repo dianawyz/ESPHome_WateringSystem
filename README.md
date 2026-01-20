@@ -87,6 +87,8 @@ The Home Assistant mobile interface provides a clean, intuitive dashboard for mo
 The system operates reliably as an autonomous plant care solution, successfully meeting all design specifications while providing comprehensive monitoring through Home Assistant.
 
 ## Demo
+![Demo](/demo.mp4)
+[Data after watering in home assistant](/homeAssistant2.jpeg)
 
 
 
