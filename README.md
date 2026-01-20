@@ -6,6 +6,8 @@ An automated plant watering system built with ESP32 and ESPHome, featuring soil 
 
 ### Schematics
 
+[Schema](/watering-system.png)
+
 ### Bill of Materials (BOM)
 
 | Component | Description | Price (RON) |
@@ -85,6 +87,7 @@ The Home Assistant mobile interface provides a clean, intuitive dashboard for mo
 The system operates reliably as an autonomous plant care solution, successfully meeting all design specifications while providing comprehensive monitoring through Home Assistant.
 
 ## Demo
+
 
 
 
