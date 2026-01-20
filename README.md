@@ -49,8 +49,7 @@ The system was successfully deployed and tested over an extended period. All ori
 
 ### System Installation and Sensor Monitoring
 
-![ESPHome Installation](https://github.com/user-attachments/assets/1.png)
-(/logs.png)
+[ESPHome Installation](/logs.png)
 
 The ESPHome firmware was successfully connected to the ESP32 with stable WiFi connectivity and Home Assistant integration. The console logs shows:
 
@@ -60,7 +59,7 @@ The ESPHome firmware was successfully connected to the ESP32 with stable WiFi co
 
 ### Long-term Performance Monitoring
 
-![Sensor History Graph](https://github.com/user-attachments/assets/2.png)
+[Sensor History Graph](/graph.png)
 
 The 24-hour monitoring graphs demonstrate:
 
@@ -72,7 +71,7 @@ The 24-hour monitoring graphs demonstrate:
 
 ### Home Assistant Dashboard Integration
 
-![Garden Dashboard](https://github.com/user-attachments/assets/3.png)
+[Garden Dashboard](/homeAssistant.png)
 
 The Home Assistant mobile interface provides a clean, intuitive dashboard for monitoring and controlling the watering system:
 
@@ -86,5 +85,6 @@ The Home Assistant mobile interface provides a clean, intuitive dashboard for mo
 The system operates reliably as an autonomous plant care solution, successfully meeting all design specifications while providing comprehensive monitoring through Home Assistant.
 
 ## Demo
+
 
 
