@@ -1,6 +1,6 @@
 # ESPHome Watering System
 
-An automated plant watering system built with ESP32 and ESPHome, featuring soil moisture monitoring, manual control, and Home Assistant integration.
+An automated plant watering system built with ESP32 and ESPHome, featuring soil moisture monitoring, manual control and Home Assistant integration.
 
 ## Hardware
 
@@ -85,6 +85,7 @@ The Home Assistant mobile interface provides a clean, intuitive dashboard for mo
 The system operates reliably as an autonomous plant care solution, successfully meeting all design specifications while providing comprehensive monitoring through Home Assistant.
 
 ## Demo
+
 
 
 
