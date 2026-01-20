@@ -91,9 +91,8 @@ The system operates reliably as an autonomous plant care solution, successfully 
 https://github.com/user-attachments/assets/4b5a7d38-ab90-46f3-84f1-6eb1ddac9c1c
 
 
-
-![Demo](/demo.mp4)
 [Data after watering in home assistant](/homeAssitant2.jpeg)
+
 
 
 
