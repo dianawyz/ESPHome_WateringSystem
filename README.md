@@ -73,7 +73,7 @@ The 24-hour monitoring graphs demonstrate:
 
 [Garden Dashboard](/homeAssistant.png)
 
-The Home Assistant mobile interface provides a clean, intuitive dashboard for monitoring and controlling the watering system:
+The Home Assistant mobile interface provides a clean, intuitive dashboard for monitoring and controlling the watering system.
 
 ### Achievements
 
@@ -85,6 +85,7 @@ The Home Assistant mobile interface provides a clean, intuitive dashboard for mo
 The system operates reliably as an autonomous plant care solution, successfully meeting all design specifications while providing comprehensive monitoring through Home Assistant.
 
 ## Demo
+
 
 
 
